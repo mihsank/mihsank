@@ -19,7 +19,7 @@ Former frontend developer (2.5 years at grandcentrix, a Vodafone company), now b
 🎯 Top 1% on TryHackMe
 🛡️ I'm moving from frontend development into **security operations**: SIEM alert triage, log analysis, IOC investigation and incident response.
 💻 At grandcentrix I built IoT monitoring dashboards and access-control features (RBAC, authentication, API integrations). I now use that background to look at systems from the defender's side.
-🌍 EU citizen, open to relocation. English C1 · German C1 · Turkish (native).
+🌍 EU citizen, open to relocation. English C1 · German B2 · Turkish (native).
 
 ## Certifications
 
